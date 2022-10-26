@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/BNDou/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNDou&layout=compact&langs_count=10&locale=cn&theme=onedark" /></a>
 
-<br>
-
-![Visitors](https://komarev.com/ghpvc/?username=BNDou&color=orange&label=Visitors)
+<a href="https://github.com/BNDou/"><center><img align="center" src="https://komarev.com/ghpvc/?username=BNDou&color=orange&label=Visitors" /></center></a>
