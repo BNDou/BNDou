@@ -1,4 +1,6 @@
-### Hi there 👋
+[![Visitors](https://komarev.com/ghpvc/?username=BNDou&color=orange&label=Visitors "BNDou")](https://github.com/BNDou)
+
+## Hi there 👋
 
 <!--
 **BNDou/BNDou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +21,3 @@ Here are some ideas to get you started:
 
 <a href="https://github.com/BNDou/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNDou&layout=compact&langs_count=10&locale=cn&theme=onedark" /></a>
 
-<a href="https://github.com/BNDou/"><center><img align="center" src="https://komarev.com/ghpvc/?username=BNDou&color=orange&label=Visitors" /></center></a>
