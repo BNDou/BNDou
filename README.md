@@ -1,6 +1,4 @@
-[![Views](https://komarev.com/ghpvc/?username=BNDou&color=lightgrey&label=Views "BNDou")](https://github.com/BNDou)
-
-## Hi there 👋
+## Hi there 👋<img align="right" src="https://komarev.com/ghpvc/?username=BNDou&color=lightgrey&label=Views" />
 
 <!--
 **BNDou/BNDou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
