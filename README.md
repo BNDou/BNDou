@@ -1,5 +1,5 @@
 ### Hi there 👋
-### Welcome to visit.
+### Welcome to visit 🎉
 <!--
 **BNDou/BNDou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=BNDou&color=red&label=Profile+views)
+![](https://komarev.com/ghpvc/?username=BNDou&color=orange&label=Profile+views)
