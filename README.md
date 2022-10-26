@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://komarev.com/ghpvc/?username=BNDou&color=orange&label=Profile+views)
+![](https://komarev.com/ghpvc/?username=BNDou&color=orange&label=Visitors)
