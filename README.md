@@ -1,4 +1,4 @@
-## Hi there 👋<a href="https://github.com/BNDou/"><img align="right" src="https://komarev.com/ghpvc/?username=BNDou&color=lightgrey&label=Views" /></a>
+## Hi there 👋<a href="https://github.com/BNDou/"><img align="right" src="https://komarev.com/ghpvc/?username=BNDou&label=Views" /></a>
 
 <!--
 **BNDou/BNDou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/BNDou/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/?username=BNDou&show_icons=true&include_all_commits=true&langs_count=3&locale=cn&theme=dark&hide=prs" /></a>
+<a href="https://github.com/BNDou/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/?username=BNDou&show_icons=true&include_all_commits=true&langs_count=3&locale=cn&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite&hide=prs" /></a>
 
-<a href="https://github.com/BNDou/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNDou&layout=compact&langs_count=10&locale=cn&theme=dark" /></a>
+<a href="https://github.com/BNDou/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNDou&layout=compact&langs_count=10&locale=cn&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" /></a>
 
