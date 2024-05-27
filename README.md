@@ -15,7 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BNDou&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BNDou&theme=transparent)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=BNDou&theme=transparent)
+
+<!--
 <a href="https://github.com/BNDou/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/?username=BNDou&show_icons=true&include_all_commits=true&locale=cn&theme=transparent&hide=prs" /></a>
 
 <a href="https://github.com/BNDou/"><img height="130px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BNDou&layout=compact&locale=cn&theme=transparent" /></a>
-
+-->
